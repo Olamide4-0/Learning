@@ -1,0 +1,4 @@
+authoronly.txt
+#Add files that you want to ignore on a new line
+#*.txt//ignore all .txt files
+#*.html//ignore all .html files and so on
